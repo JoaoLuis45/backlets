@@ -91,7 +91,14 @@
       "id": "3ecb"
     }
   ],
-  "categorias": ["Geladinhos","Docinhos"],
+  "categorias": [
+    {
+      "categoria": "Geladinhos"
+    },
+    {
+      "categoria": "Docinhos"
+    }
+  ],
   "adm" : [
     {
       "usuario" : "leticia",
